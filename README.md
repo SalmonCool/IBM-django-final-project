@@ -1,1 +1,1 @@
-# IBM-django-final-project
+# IBM Django Final Project
